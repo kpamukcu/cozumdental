@@ -1,0 +1,24 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css");
+
+
+
+
+
+/* Mobil Css */
+@media (max-width:768px){
+
+    #footer{
+        padding-top:20px !important;
+        padding-bottom:20px !important;
+    }
+
+    .footer2, .footer3{
+        width: 50%;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+
+    #altFooter .col-md-4{
+        text-align: center !important;
+    }
+}
