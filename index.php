@@ -84,4 +84,20 @@
 </section>
 <!-- Ürünler Section End -->
 
+<!-- Hakkımızda Section Start -->
+<section id="hakkimizda" class="py-5">
+    <div class="container">
+        <div class="row py-5">
+            <div class="col-md-6 ml-auto py-5">
+                <h2>Hakkımızda</h2>
+                <p>Firmamız 04.02.2020 tarihinde Muğla merkezde faaliyete gecmistir. Firmamiz dental sektorde demirbaş satışı , satış sonrası hizmet ve bakim-onarım üzerine çözüm ortağı olarak faaliyet göstermekteyiz.</p>
+
+                <p>Amacımız; siz değerli hekimlerimize deneyimli personelimiz ile birlikte hızlı, güvenilir ve en doğru hizmeti sağmaktır.</p>
+                <a href="#"><button class="btn btn-primary">Bize Ulaşın</button></a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Hakkımızda Section End -->
+
 <?php require_once('footer.php') ?>

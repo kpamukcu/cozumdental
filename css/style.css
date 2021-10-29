@@ -6,12 +6,35 @@
     margin-left:20px;
 }
 
+#hakkimizda{
+    background-image: url('../img/cozum-dental-hakkimizda.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hakkimdaBanner{
+    background-image: url('../img/hakkimizda-banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.py-15{
+    padding-top:150px;
+    padding-bottom:150px;
+}
+
+
+
 
 /* Mobil Css */
 @media (max-width:768px){
 
     h2{
         font-size: calc(1rem + 1vw);
+    }
+
+    #kurumsalContent iframe{
+        width: 100%;
     }
 
     #footer{

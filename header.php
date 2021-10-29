@@ -19,7 +19,7 @@
 <body>
 
     <!-- Header Section Start -->
-    <header id="menu">
+    <header id="menu" class="fixed-top bg-white">
         <div class="container">
             <div class="row">
                 <div class="col-12">
@@ -30,11 +30,11 @@
                         </button>
                         <div class="collapse navbar-collapse" id="navbarNavDropdown">
                             <ul class="navbar-nav ml-auto">
-                                <li class="nav-item active">
-                                    <a class="nav-link" href="#">Ana Sayfa</a>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="index.php">Ana Sayfa</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Kurumsal</a>
+                                    <a class="nav-link" href="kurumsal.php">Kurumsal</a>
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="#" id="urunlerimizMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
