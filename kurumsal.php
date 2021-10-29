@@ -1,12 +1,12 @@
 <?php require_once('header.php'); ?>
 
 <!-- Banner Section Start -->
-<section id="hakkimdaBanner" class="py-15">
+<section id="altSayfaBanner" class="py-15">
     <div class="container">
         <div class="row">
             <div class="col-12 text-white text-center">
                 <h2 class="lead display-4">Hakkımızda</h2>
-                <a href="index.php">Ana Sayfa</a> / <a href="kurumsal.php">Kurumsal</a> / Hakkımızda
+                <a href="index.php" class="text-white">Ana Sayfa</a> / <a href="kurumsal.php" class="text-white">Kurumsal</a> / Hakkımızda
             </div>
         </div>
     </div>
@@ -30,10 +30,16 @@
                     <h3>Hizmetlerimiz</h3>
                     <p>Her marka diş üniti bakım tamiri, aerator tamiri, anguldruva, piesemen, mikromotor tamiri, otoklav bakımı ve ekipmanları tamiri, kavitron tamiri, amalgamator tamiri, komprasor bakım ve tamiri, aljinat karıştırma cihazı tamiri, rontgen tamiri, cerrahi aspirator bakım ve tamiri</p>
                 </div>
-                <div>
-                    <h3>Çözüm Ortaklarımız</h3>
+                <div class="mb-3">
+                    <h3 class="mb-3">Çözüm Ortaklarımız</h3>
                     <img src="img/esti-dis-deposu-logo.png" alt="Esti Diş Deposu">
                     <img src="img/guney-dis-deposu-logo.png" alt="Güney Diş Deposu">
+                    <img src="img/lider-dis-deposu-logo.png" alt="Lider Diş Deposu">
+                </div>
+                <div>
+                    <img src="img/gulsa-dis-deposu-logo.png" alt="Gulsa Diş Deposu">
+                    <img src="img/arı-dental-logo.png" alt="Arı Dental Logo" class="mx-3">
+                    <img src="img/dilman-dis-deposu-logo.png" alt="Dilman Diş Deposu">
                 </div>
             </div>
             <div class="col-md-3">
