@@ -37,13 +37,13 @@
                                     <a class="nav-link" href="kurumsal.php">Kurumsal</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Ürünler</a>
+                                    <a class="nav-link" href="urunler.php">Ürünler</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Hizmetler</a>
+                                    <a class="nav-link" href="hizmetler.php">Hizmetler</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">İletişim</a>
+                                    <a class="nav-link" href="iletisim.php">İletişim</a>
                                 </li>
                             </ul>
                         </div>
