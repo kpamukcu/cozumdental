@@ -32,6 +32,16 @@ h1{
     font-size: 35px;
 }
 
+#urunlerContent a{
+    text-decoration: none !important;
+    color:#393939 !important;
+    
+}
+
+#urunlerContent h2{
+    font-size:22px;
+}
+
 
 
 

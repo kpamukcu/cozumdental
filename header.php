@@ -40,9 +40,6 @@
                                     <a class="nav-link" href="urunler.php">Ürünler</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="hizmetler.php">Hizmetler</a>
-                                </li>
-                                <li class="nav-item">
                                     <a class="nav-link" href="iletisim.php">İletişim</a>
                                 </li>
                             </ul>
