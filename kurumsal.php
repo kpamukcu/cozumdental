@@ -25,12 +25,79 @@
                         Amacımız; siz değerli hekimlerimize deneyimli personelimiz ile birlikte hızlı, güvenilir ve en doğru hizmeti sağmaktır.
                     </p>
                 </div>
-
                 <div class="my-5">
                     <h3>Hizmetlerimiz</h3>
                     <p>Her marka diş üniti bakım tamiri, aerator tamiri, anguldruva, piesemen, mikromotor tamiri, otoklav bakımı ve ekipmanları tamiri, kavitron tamiri, amalgamator tamiri, komprasor bakım ve tamiri, aljinat karıştırma cihazı tamiri, rontgen tamiri, cerrahi aspirator bakım ve tamiri</p>
                 </div>
-                <div class="mb-3">
+                <div>
+                    <h3>Sertifikalarımız</h3>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#sorumlumudur" src="img/sorumlu-mudur-belgesi-696x496.jpg" alt="Sorumlu Müdür Belgesi Tumbler">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="sorumlumudur" tabindex="-1" aria-labelledby="sorumlumudur" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="sorumlumudur">Sorumlu Müdür Belgesi</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/sorumlu-mudur-belgesi-696x496.jpg" alt="Sorumlu Müdür Belgesi" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#pamukkale" src="img/pamukkale-universitesi-637x444.jpg" alt="Pamukkale Üniversitesi Diploma Thumbler">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="pamukkale" tabindex="-1" aria-labelledby="pamukkale" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="pamukkale">Pamukkale Üniversitesi Ön Lisans Diploması</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/pamukkale-universitesi-637x444.jpg" alt="Pamukkale Üniversitesi Diploma" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#anadolu" src="img/anadolu-universitesi-637x441.jpg" alt="Anadolu Üniversitesi Diploma Thumbler">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="anadolu" tabindex="-1" aria-labelledby="anadolu" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="anadolu">Anadolu Üniversitesi Lisans Diploması</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/anadolu-universitesi-637x441.jpg" alt="Anadolu Üniversitesi Diploma" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="my-5">
                     <h3 class="mb-3">Çözüm Ortaklarımız</h3>
                     <img src="img/esti-dis-deposu-logo.png" alt="Esti Diş Deposu">
                     <img src="img/guney-dis-deposu-logo.png" alt="Güney Diş Deposu">

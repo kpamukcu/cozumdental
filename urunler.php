@@ -112,6 +112,38 @@
                 </a>
             </div>
         </div>
+        <div class="row my-4">
+            <div class="col-md-4">
+                <a href="panaromik-rontgen.html">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="img/panaromik-rontgen-800x800.jpg" alt="Panaromik Rontgen" class="card-img-top">
+                        </div>
+                        <h2>Panaromik Rontgenler</h2>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="portatif-rontgen-ve-rvg.html">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="img/portatif-rontgen-ve-rvg-800x800.jpg" alt="Portatif Rontgen ve Rvg" class="card-img-top">
+                        </div>
+                        <h2>Portatif Rontgen ve Rvg</h2>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="yaglama-cihazlari.html">
+                    <div class="card text-center">
+                        <div class="card-body">
+                            <img src="img/yaglama-cihazlari-800x800.jpg" alt="Yağlama Cihazları" class="card-img-top">
+                        </div>
+                        <h2>Yağlama Cihazları</h2>
+                    </div>
+                </a>
+            </div>
+        </div>
     </div>
 </section>
 <!-- Ürünler Content Section End -->
