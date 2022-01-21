@@ -95,6 +95,157 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#ems" src="img/ems-training-certificate-637x44.jpg" alt="Ems Training Certificate">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="ems" tabindex="-1" aria-labelledby="ems" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="ems">Ems Training Certificate</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/ems-training-certificate-637x44.jpg" alt="Ems Training Certificate" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row my-3">
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#guneydis" src="img/gunes-dis-katilimci-sertifikasi-637x44.jpg" alt="Guney Diş - Katılımcı Sertifikası">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="guneydis" tabindex="-1" aria-labelledby="guneydis" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="guneydis">Güney Diş - Katılımcı Sertifikası</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/gunes-dis-katilimci-sertifikasi-637x44.jpg" alt="Sorumlu Müdür Belgesi" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#satiselemani" src="img/satis-tanitim-elemani-637x444.jpg" alt="Satış ve tanıtım Elemanı">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="satiselemani" tabindex="-1" aria-labelledby="satiselemani" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="satiselemani">Satış ve Tanıtım Elemanı Sertifikası</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/satis-tanitim-elemani-637x444.jpg" alt="Satış ve tanıtım Elemanı" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#klinik" src="img/klinik-destek-elemani-637x444.jpg" alt="Klinik Destek Elemanı">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="klinik" tabindex="-1" aria-labelledby="klinik" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="klinik">Klinik Destek Elemanı</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/klinik-destek-elemani-637x444.jpg" alt="Klinik Destek Elemanı" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#gulsa" src="img/gulsa-637x44.jpg" alt="Gülsa Teknik Destek Eğitimi">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="gulsa" tabindex="-1" aria-labelledby="gulsa" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="gulsa">Gülsa Teknik Destek Eğitimi</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/gulsa-637x44.jpg" alt="Gülsa Teknik Destek Eğitimi" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#liderdis" src="img/lider-dis-teknik-hizmet-sertifikasi-637x444.jpg" alt="Lider Diş Teknik Hizmet ve Yeterlilik Sertifikası">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="liderdis" tabindex="-1" aria-labelledby="liderdis" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="liderdis">Lider Diş Teknik Hizmet ve Yeterlilik Sertifikası</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/lider-dis-teknik-hizmet-sertifikasi-637x444.jpg" alt="Lider Diş Teknik Hizmet ve Yeterlilik Sertifikası" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3">
+                            <!-- Button trigger modal -->
+                            <img class="img-fluid" data-toggle="modal" data-target="#sorumlumudur" src="img/sorumlu-mudur-belgesi-637x444.jpg" alt="Sorumlu Müdür">
+
+                            <!-- Modal -->
+                            <div class="modal fade" id="sorumlumudur" tabindex="-1" aria-labelledby="sorumlumudur" aria-hidden="true">
+                                <div class="modal-dialog modal-lg">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="sorumlumudur">Sorumlu Müdür Belgesi</h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <img src="img/sorumlu-mudur-belgesi-637x444.jpg" alt="Sorumlu Müdür" class="w-100">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="my-5">
