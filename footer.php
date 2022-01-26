@@ -4,27 +4,26 @@
             <div class="row">
                 <div class="col-md-3 footer1">
                     <h5 class="lead">Çözüm Dental</h5>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Molestiae nobis dolor atque.</p>
+                    <small>Dental sektörde demirbaş satışı, satış sonrası hizmet ve bakım-onarım üzerine çözüm ortağı olarak faaliyet göstermekteyiz.</small>
                 </div>
                 <div class="col-md-3 footer2">
                     <h5 class="lead">Ürünlerimiz</h5>
-                    <a href="#">Ürün 1</a><br>
-                    <a href="#">Ürün 2</a><br>
-                    <a href="#">Ürün 3</a><br>
-                    <a href="#">Ürün 4</a><br>
+                    <a href="cerrahi-aspiratorler.php">Cerrahi Aspiratörler</a><br>
+                    <a href="cerrahi-dis-uniti.php">Cerrahi Diş Üniti</a><br>
+                    <a href="eletrikli-mikromotor.php">Elektrikli Mikro Motor</a><br>
+                    <a href="isin-dolgu-cihazlari.php">Işın Dolgu Cihazları</a><br>
                 </div>
                 <div class="col-md-3 footer3">
                     <h5 class="lead">Hizmetlerimiz</h5>
-                    <a href="#">Hizmet 1</a><br>
-                    <a href="#">Hizmet 2</a><br>
-                    <a href="#">Hizmet 3</a><br>
-                    <a href="#">Hizmet 4</a><br>
+                    <a href="kurumsal.php">Demirbaş Satışı</a><br>
+                    <a href="kurumsal.php">Satış Sonrası Hizmet</a><br>
+                    <a href="kurumsal.php">Bakım & Onarım</a>
                 </div>
                 <div class="col-md-3 footer4">
                     <h5 class="lead">İletişim</h5>
-                    <i class="bi bi-geo-alt"></i> Lorem Ipsum Dolor Sit Amet <br>
-                    <i class="bi bi-telephone"></i> 0123 456 78 96 <br>
-                    <i class="bi bi-envelope-open"></i> info@cozumdental.com
+                    <i class="bi bi-geo-alt"></i> Orhaniye Mah. 14 Sok. No:9/D Menteşe - MUĞLA <br>
+                    <i class="bi bi-telephone"></i> <a href="tel:+905551527153">0555 152 7153</a> <br>
+                    <i class="bi bi-envelope-open"></i> <a href="mailto:cozumdental@gmail.com">cozumdental@gmail.com</a>
                 </div>
             </div>
         </div>
@@ -39,7 +38,7 @@
                     <small><a href="#" class="text-dark">Kullanıcı Sözleşmesi ve Gizlilik Politikası</a></small>
                 </div>
                 <div class="col-md-4 text-right altFooter3">
-                    <small><a href="#" class="text-dark">Web Tasarım</a></small>
+                    <small><a href="https://www.kaanpamukcu.com" class="text-dark" target="_blank">Web Tasarım</a></small>
                 </div>
             </div>
         </div>

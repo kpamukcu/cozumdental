@@ -42,6 +42,11 @@ h1{
     font-size:22px;
 }
 
+#footer a, #iletisimBar a, #kurumsalContent a{
+    color:#393939;
+    text-decoration: none;
+}
+
 
 
 
