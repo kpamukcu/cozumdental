@@ -40,43 +40,11 @@
 <!-- İletişim Bar Section End -->
 
 <!-- Harita & Form Section Start -->
-<section id="haritaForm" class="bg-light mb-3">
+<section id="haritaForm" class="bg-light">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6 p-0">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3177.379801547381!2d28.36883731525963!3d37.214957879865146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bf6df53fe1cba1%3A0x9bc867409b926efc!2sOrhaniye%2C%2014.%20Sk.%209d%2C%2048000%20Mu%C4%9Fla%20Merkez%2FMu%C4%9Fla!5e0!3m2!1str!2str!4v1643185073967!5m2!1str!2str" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-            </div>
-            <div class="col-md-6 my-auto">
-                <form action="" method="post" class="form-row">
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <input type="text" name="adsoyad" class="form-control" placeholder="Adınız Soyadınız">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <input type="tel" name="telefon" class="form-control" placeholder="Telefon Numaranız">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <input type="email" name="email" class="form-control" placeholder="E-Posta Adresiniz">
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <input type="text" name="konu" class="form-control" placeholder="Konu">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="form-group">
-                            <textarea name="mesaj" rows="8" class="form-control" placeholder="Mesajınız"></textarea>
-                        </div>
-                        <div class="form-group">
-                            <button type="submit" class="btn btn-success w-100">Gönder</button>
-                        </div>
-                    </div>
-                </form>
+            <div class="col-12 p-0">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3177.379801547381!2d28.36883731525963!3d37.214957879865146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14bf6df53fe1cba1%3A0x9bc867409b926efc!2sOrhaniye%2C%2014.%20Sk.%209d%2C%2048000%20Mu%C4%9Fla%20Merkez%2FMu%C4%9Fla!5e0!3m2!1str!2str!4v1643185073967!5m2!1str!2str" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </div>

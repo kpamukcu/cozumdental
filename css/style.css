@@ -6,6 +6,10 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 
+#slider{
+    margin-top:50px !important;
+}
+
 #urunler button{
     margin-top:-20px;
     margin-left:20px;
@@ -15,12 +19,14 @@ body{
     background-image: url('../img/cozum-dental-hakkimizda.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 #altSayfaBanner{
     background-image: url('../img/hakkimizda-banner.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center center;
 }
 
 .py-15{
@@ -42,9 +48,15 @@ h1{
     font-size:22px;
 }
 
-#footer a, #iletisimBar a, #kurumsalContent a{
+#iletisimBar a, #kurumsalContent a{
     color:#393939;
     text-decoration: none;
+}
+
+#footer a, #altFooter a{
+    color: #fff !important;
+    text-decoration: none;
+    font-size:14px;
 }
 
 
@@ -74,5 +86,9 @@ h1{
 
     #altFooter .col-md-4{
         text-align: center !important;
+    }
+
+    .mobilCard{
+        margin-bottom:20px !important;
     }
 }

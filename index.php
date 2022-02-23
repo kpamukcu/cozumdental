@@ -9,25 +9,24 @@
             <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
         </ol>
         <div class="carousel-inner">
-            <div class="carousel-item active"> 
-                <img src="img/slide1.jpg" class="d-block w-100" alt="...">
+            <div class="carousel-item active">
+                <img src="img/dis-hekimi-klink-urunleri.webp" class="d-block w-100" alt="Çözüm Dental Ürün ve Hizmetler">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>First slide label</h5>
-                    <p>Some representative placeholder content for the first slide.</p>
+                    <h5 class="display-4">Çözümde Görev Almayanlar Problemin Parçası Olurlar</h5>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/slide2.jpg" class="d-block w-100" alt="...">
+                <img src="img/cerrahi-dis-uniti.jpg" class="d-block w-100" alt="Çözüm Dental Ürünler">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Second slide label</h5>
-                    <p>Some representative placeholder content for the second slide.</p>
+                    <h5 class="display-4">Çözüm Dental<br>Ürün ve Hizmetleri</h5>
+                    <a href="urunler.php"><button class="btn btn-light">Tüm Ürünlerimiz</button></a>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="img/slide3.jpg" class="d-block w-100" alt="...">
+                <img src="img/panaromik-rontgen.webp" class="d-block w-100" alt="Çözüm Dental Ürünler">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Third slide label</h5>
-                    <p>Some representative placeholder content for the third slide.</p>
+                    <h5 class="display-4">Panoromik ve<br>Portatif Rontgenler</h5>
+                    <a href="urunler.php"><button class="btn btn-light">Tüm Ürünlerimiz</button></a>
                 </div>
             </div>
         </div>
@@ -51,32 +50,32 @@
                 <h2>Ürünlerimiz</h2>
             </div>
             <div class="col-6 text-right my-auto">
-                <a href="">Tüm Ürünlerimiz</a>
+                <a href="urunler.php">Tüm Ürünlerimiz</a>
             </div>
         </div>
         <div class="row mt-3">
-            <div class="col-md-3">
+            <div class="col-md-3 mobilCard">
                 <div class="card border-0">
-                    <img src="img/ornek.jpg" alt="">
-                    <button class="btn btn-primary w-50">İnceleyin</button>
+                    <img src="img/cerrahi-dis-uniti-800x800.jpg" alt="Cerrahi Diş Üniti" class="img-fluid">
+                    <a href="urunler.php"><button class="btn btn-primary w-50">İnceleyin</button></a>
+                </div>
+            </div>
+            <div class="col-md-3 mobilCard">
+                <div class="card border-0">
+                    <img src="img/elektrikli-mikromotor-800x800.jpg" alt="Elektrikli Mikromotor" class="img-fluid">
+                    <a href="urunler.php"><button class="btn btn-primary w-50">İnceleyin</button></a>
+                </div>
+            </div>
+            <div class="col-md-3 mobilCard">
+                <div class="card border-0">
+                    <img src="img/ortam-dezanfaktasyonu-800x800.jpg" alt="Ortam Dezanfaktasyonu" class="img-fluid">
+                    <a href="urunler.php"><button class="btn btn-primary w-50">İnceleyin</button></a>
                 </div>
             </div>
             <div class="col-md-3">
                 <div class="card border-0">
-                    <img src="img/ornek.jpg" alt="">
-                    <button class="btn btn-primary w-50">İnceleyin</button>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="card border-0">
-                    <img src="img/ornek.jpg" alt="">
-                    <button class="btn btn-primary w-50">İnceleyin</button>
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="card border-0">
-                    <img src="img/ornek.jpg" alt="">
-                    <button class="btn btn-primary w-50">İnceleyin</button>
+                    <img src="img/panaromik-rontgen-800x800.jpg" alt="Panaromik Rontgenler" class="img-fluid">
+                    <a href="urunler.php"><button class="btn btn-primary w-50">İnceleyin</button></a>
                 </div>
             </div>
         </div>
